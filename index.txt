@@ -1,0 +1,102 @@
+(dp1
+S'Type of affiliation'
+p2
+VProvisional
+p3
+sS'District'
+p4
+VHYDERABAD
+p5
+sS'State'
+p6
+VANDHRA PRADESH
+p7
+sS'Principal Education/Professional Qualifications'
+p8
+VM.A,B.ED
+p9
+sS'Affiliation Period From'
+p10
+V1/4/2012
+p11
+sS'Name of Principal/ Head of Institution'
+p12
+VA.RATNA REDDY
+p13
+sS'Teaching'
+p14
+V12
+p15
+sS'Status of The School'
+p16
+VSecondary School
+p17
+sS'Email'
+p18
+Vkkr_gis@yahoo.co.in
+p19
+sS'Affiliation Number'
+p20
+V130229
+p21
+sS'Website'
+p22
+Vhttp://www.gowthamconcept.net
+p23
+sS'Number of Experience Years'
+p24
+V
+sS'Affiliation Period To'
+p25
+V31/3/2017
+p26
+sS'Administrative'
+p27
+V4
+sS'FAX No'
+p28
+V
+sS'Name of Institution'
+p29
+VDR K.K.R's GOWTHAM CONCEPT SCHOOL,IIT FOUNDATION SCHOOL
+p30
+sS'Pin Code'
+p31
+V500040
+p32
+sS'Year of Foundation'
+p33
+V2008
+p34
+sS'Name of Trust/ Society/ Managing Committee'
+p35
+VSRI GOWTHAM EDUCATIONAL SOCIETY
+p36
+sS'Postal Address'
+p37
+VOPP.MANISHA GARDENS,MOULALI-ECIL X ROADS,
+p38
+sS'Sex'
+p39
+V2
+sS'Phone Office 2'
+p40
+V04032567788,04032568899\u000a                        ,
+p41
+sS'Phone Office 1'
+p42
+V04032567788,04032568899\u000a                        ,
+p43
+sS'Date of First Openning of School'
+p44
+V2/28/2008 12:00:00 AM
+p45
+sS'Phone Residence 1'
+p46
+V22458
+p47
+sS'Phone Residence 2'
+p48
+V22458
+p49
+s.
