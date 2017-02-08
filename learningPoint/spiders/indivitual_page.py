@@ -38,16 +38,33 @@ class QuotesSpider(scrapy.Spider):
 	def parse_school(self,response):
 		print "scraping school data:"
 		#inp = input()
+		data = {}
+
 		page = response.xpath('//div[@id="sites-canvas-main-content"]/table/tbody/tr/td/div').extract()
 		try:
 			soup = BeautifulSoup(page[len(page)-3],'html.parser')
 			tables = soup.find_all('table')
 			table = tables[0].find_all('td')
+
+			data['extra'] = unicode('')
+
+			for i in xrange(1,len(page)-3):
+				soup1 = BeautifulSoup(page[i],"html.parser")
+				if soup1.string is not None:
+					data['extra'] = data['extra'] + unicode(' ') + soup1.string.strip()
 		except:
 			soup = BeautifulSoup(page[len(page)-2],'html.parser')
 			tables = soup.find_all('table')
 			table = tables[0].find_all('td')
-		data ={}
+
+			data['extra'] = unicode('')
+
+			for i in xrange(1,len(page)-2):
+				soup1 = BeautifulSoup(page[i],"html.parser")
+				if soup1.string is not None:
+					data['extra'] = data['extra'] + unicode(' ') + soup1.string.strip()
+
+		#data ={}
 		try:
 			data['Name of Institution'] = table[2].string.strip() #name of institute
 		except:
@@ -158,13 +175,13 @@ class QuotesSpider(scrapy.Spider):
 		check = Path("output/data.csv")
 		if not check.is_file():
 			with open("output/data.csv","wb") as myFile:
-				fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee']
+				fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
 
 				writer = csv.DictWriter(myFile,fieldnames=fieldnames)
 				writer.writeheader()
 
 		with open("output/data.csv","a") as myFile:
-			fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee']
+			fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
 
 			writer = csv.DictWriter(myFile,fieldnames=fieldnames)
 
@@ -194,7 +211,8 @@ class QuotesSpider(scrapy.Spider):
 				'Type of affiliation':data['Type of affiliation'],
 				'Affiliation Period From':data['Affiliation Period From'],
 				'Affiliation Period To':data['Affiliation Period To'],
-				'Name of Trust/ Society/ Managing Committee':data['Name of Trust/ Society/ Managing Committee'] })
+				'Name of Trust/ Society/ Managing Committee':data['Name of Trust/ Society/ Managing Committee'], 
+				'extra':data['extra'] })
 
 
 		with open("index.txt","wb") as myFile:
