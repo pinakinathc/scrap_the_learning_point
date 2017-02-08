@@ -1,223 +1,384 @@
-Name of Institution,Affiliation Number,State,District,Postal Address,Pin Code,Phone Office 1,Phone Office 2,Phone Residence 1,Phone Residence 2,FAX No,Email,Website,Year of Foundation,Date of First Openning of School,Name of Principal/ Head of Institution,Sex,Principal Education/Professional Qualifications,Number of Experience Years,Administrative,Teaching,Status of The School,Type of affiliation,Affiliation Period From,Affiliation Period To,Name of Trust/ Society/ Managing Committee
-aryan international public school,2131360,uttar pradesh,MUZAFFARNAGAR,"garhi road, jansath, Muzaffar Nagar,",251314,"9319691632
-                        ,","9319691632
-                        ,",272137,272137,,akashkumar2005@hotmail.com,,2008,4/1/2008 12:00:00 AM,Mr.manoj chauhan,2,"M.A,B.Ed",,3,3,Secondary School,Provisional,1/4/2015,31/3/2017,Ekta rural research introduction for keen activities foundation and charitable trust
-Jim Corbett International School,3530349,UTTARANCHAL,BAGESHWAR,Jim Corbett International School. Takula Road. Bageshwar,263642,"05963-221049
-                        ,","05963-221049
-                        ,",,,05963-221049,jimcorbettschool@yahoo.co.in,,2007,4/2/2007 12:00:00 AM,Mr.Mr Pooran Kapil,0,"M.A., B.Ed.",,5,10,Secondary School,Provisional,1/4/2013,31/3/2016,Jim Corbett School Society
-INDRAPRASTHA GLOBAL SCHOOL,2131583,uttar pradesh,GAUTAM BUDH NAGAR,"INDRAPRASTHA GLOBAL SCHOOL, SECTOR 93-B, NOIDA (UP)",201305,"0120-2426040
-                        ,","0120-2426040
-                        ,",,,0120-2426059,ipnoida@indraprasthaschool.com,http://www.indraprasthaschool.com,2010,4/4/2011 12:00:00 AM,Dr.RAJESH HASSIJA,0,"M.Sc., Ph.D (Maths)",,20,25,Secondary School,Provisional,1/4/2013,31/3/2016,Capital Charitable & Educational Society
-P.G.SENIOR SECONDARY SCHOOL,2131500,uttar pradesh,KUSHI NAGAR,"P.G.SENIOR SECONDARY SCHOOL 
-CAPTAINGANJ KUSHINAGAR
-UTTAR PRADESH",274301,"05567252718
-                        ,","05567252718
-                        ,",,,,pgssschool@gmail.com,,2004,4/17/2007 12:00:00 AM,Mrs.SANGITA SINGH,0,M.SC. AND B.ED.,,5,10,Secondary School,Provisional,1/4/2013,31/3/2016,PAWAN GOLD CHILDRENS ACADEMY
-Podar International School,1130410,MAHARASHTRA,NAGPUR,"SURVEY NO. PH.-38/A, MOUZA WELAHARI TAL. NAGPUR, Maharashtra",440034,"6455205
-                        ,","6455205
-                        ,",,,6455205,principal.nagpurbesa@podar.org,http://www.podar.org,2011,6/23/2011 12:00:00 AM,,0,,,,,Secondary School,Provisional,1/4/2014,31/3/2017,Podar Literacy and Education Trust
-G.S. INTERNATIONAL PUBLIC SCHOOL,1630748,PUNJAB,GURDASPUR,"DERA BABA NANAK GURDASPUR, PUNJAB",143605,"01871-262136
-                        ,","01871-262136
-                        ,",04842426338,04842426338,01871-262439,gsinternationalschool@gmail.com,,2008,4/1/2008 12:00:00 AM,Dr.Parveen Taunk,2,"M.Sc, B.Ed",,4,6,Secondary School,Provisional,1/4/2015,31/3/2020,"Bhai Gurdas Model School Education Society, Bhagwanpur"
-Sahibzada Zorawar Singh Public School,1630756,PUNJAB,KAPURTHALA,Sahibzada Zorawar Singh Public School,144624,"01822-271901
+Name of Institution,Affiliation Number,State,District,locality,Postal Address,Pin Code,Phone Office 1,Phone Office 2,Phone Residence 1,Phone Residence 2,FAX No,Email,Website,Year of Foundation,Date of First Openning of School,Name of Principal/ Head of Institution,Sex,Principal Education/Professional Qualifications,Number of Experience Years,Administrative,Teaching,Status of The School,Type of affiliation,Affiliation Period From,Affiliation Period To,Name of Trust/ Society/ Managing Committee,extra
+Shri Guru Angad Dev Public School,1630733,PUNJAB,SANGRUR,DhuriAmargarh,Shri Guru Angad Dev Public School,148022,"01675285252
+                        ,","01675285252
+                        ,",,,01675285252,sgad_langrian@yahoo.com,,2008,4/1/2009 12:00:00 AM,Mrs.Bhagwant Kaur,,MA English B.Ed.,,2,12,Secondary School,Provisional,1/4/2012,31/3/2015,Dhindsa Trust Educational Society,
+Sahibzada Zorawar Singh Public School,1630756,PUNJAB,KAPURTHALA,BEASNADALA,Sahibzada Zorawar Singh Public School,144624,"01822-271901
                         ,","01822-271901
-                        ,",,,01822-271901,szspsnadala@gmail.com,,2006,4/14/2008 12:00:00 AM,Mrs.kanwaljit kaur,0,"M.A,B.Ed",,3,5,Secondary School,Provisional,1/4/2012,31/3/2015,"Shiromani Gurdwara Parbandhak Committee,amritsar"
-Mount Guide International School,931015,KERALA,KANNUR,"Peringathur, Puliyanabram Post, Thalassery.",670675,"0490-2397377
-                        ,","0490-2397377
-                        ,",,,,admin@mountguideschool.com,http://www.mountguideinternational.org/,2006,6/5/2006 12:00:00 AM,Dr.Sathi Ramachandran,1,"MA, PhD",,15,28,Secondary School,Provisional,1/4/2013,31/3/2016,PARCO educational Trust
-Gems Cambridge International School,1630629,PUNJAB,HOSHIARPUR,"Gems Cambridge International School 
-Jalandhar-Phagwara Byepass
-Purhiran
-hoshiarpur",146111,"01882-249312
-                        ,","01882-249312
-                        ,",,,01882-249313,gcish_principalhsp@yahoo.com,http://www.gemseducation.com,2008,11/3/2008 12:00:00 AM,Lorraine Mirza,0,"MA,B.SC,B.ED",,5,10,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2016",Vasal Educational Society
-Doraha Public School,1630553,PUNJAB,LUDHIANA,"Doraha Public School,
+                        ,",,,01822-271901,szspsnadala@gmail.com,,2006,4/14/2008 12:00:00 AM,Mrs.kanwaljit kaur,0,"M.A,B.Ed",,3,5,Secondary School,Provisional,1/4/2012,31/3/2015,"Shiromani Gurdwara Parbandhak Committee,amritsar",
+Shree Swaminarayan Goodwill School,430136,GUJARAT,BHARUCH,BharuchSonari Mahal,Shree Swaminarayan Goodwill School; Link Road; Dahej Bypass; Bharuch;Gujarat,392001,"02642-238574
+                        ,","02642-238574
+                        ,",,,,dk_rup@yahoo.com,,2002,6/11/2006 12:00:00 AM,Dev Kishor Swami,0,M.A.: B.ed,,7,8,Secondary School,Provisional,1/4/2013,31/3/2018,Shree Swaminarayan Education Trust,
+Suryansh Public School,2131456,uttar pradesh,MORADABAD,MoradabadKatghar,"Suryansh Public School, Suryansh Golf Links, main moradabad, rampur national highway no. 24, moradabad, UP",244001,"0591-2951051
+                        ,","0591-2951051
+                        ,",,,0591-2951051,suryanshpbschool@gmail.com,,2011,4/15/2011 12:00:00 AM,Mrs.Eshu Bhardwaj,,"MA, B.Ed",,4,10,Secondary School,Provisional,1/4/2012,31/3/2015,Suryansh Educational Research Training And devlopment Society," Suryansh Public School Affiliation Code:2131456 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Suryansh Public School, Suryansh Golf Links, main moradabad, rampur national highway no. 24, moradabad, UP Phone Num: STD Code: PhNo: 0591-2951051 , Fax: City: 244001 Email:suryanshpbschool@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Doraha Public School,1630553,PUNJAB,LUDHIANA,DorahaDoraha,"Doraha Public School,
 DORAHA",141421,"01828-258301
                         ,","01828-258301
                         ,",9915070521,9915070521,,dopsdoraha@yahoo.com,,2007,4/8/2008 12:00:00 AM,MS SANGEETA BEDI,2,,,,,Senior Secondary,Provisional,1/4/2011,"31/
                     3/
-                    2014",Sant Kartar Singh Kamalia Wale Educational Society
-Dronacharya Sr. Sec. School,530945,HARYANA,JHAJJAR,"Dronacharya Sr. Sec. School V.Po. Mubarikpur
+                    2014",Sant Kartar Singh Kamalia Wale Educational Society,
+"DELHI PUBLIC SCHOOL, BARRA",2131349,uttar pradesh,KANPUR,GOVINDPURITHANA BARRA,"DELHI PUBLIC SCHOOL, MEHARBAN SINGH KA PURWA, BARRA, KANPUR",208002,"05122683514
+                        ,","05122683514
+                        ,",,,05122217861,dpsazadnagar@gmail.com,http://www.dpsbarra.com,2010,4/1/2010 12:00:00 AM,Mrs.SHILPA MANISH,0,"M.A., B.Ed",,5,15,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2017",SHYAM BEHARI MISRA MEMORIAL CHARITABLE TRUST,
+Jesus Mary School,230090,ASSAM,BONGAIGAON,BijniBijni,"Jesus Mary School, Bhetagaon, Bijni -783390",783390,"03664284006
+                        ,","03664284006
+                        ,",2169103,2169103,,jmschool_bijni@yahoo.co.in,,2000,1/16/2000 12:00:00 AM,Sr.Tamilarasi,2,"B.Se,B.Ed",,10,10,Secondary School,Provisional,1/4/2012,31/3/2017,THE DIOCESE OF BONGAIGOAN," Jesus Mary School Affiliation Code:230090 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Jesus Mary School, Bhetagaon, Bijni -783390 Phone Num: STD Code:01668 PhNo: 03664284006 , Fax:2169103 City: 783390 Email:jmschool_bijni@yahoo.co.in, Website: Courses of study offered: This school follows the CBSE curriculum"
+A.S.M. PUBLIC SCHOOL,1730453,RAJASTHAN,SRI GANGANAGAR,SRI GANGANAGARPADAMPUR,"C.C. HEAD PADAMPUR
+DISTT. SRI GANGANAGAR",335041,"01505-281428, 281528
+                        ,","01505-281428, 281528
+                        ,",,,01505-222927,faqirchand2001@yahoo.co.in,,2001,4/1/2001 12:00:00 AM,BEANT SINGH PANNU,1,M.Sc. B.Ed,,03,08,Secondary School,Provisional,1/4/2013,31/3/2018,A.S. MEMORIAL SHIKSHAN SAMITI,
+india international school,6630068,FOREIGN SCHOOLS,UNITED ARAB EMIRATES,METRO- RASHIDIYAINDUSTRIAL AREA,"p.b. no. 64264, schools zone, muweilah, sharjah, u.a.e.",064264,"009715356000
+                        ,","009715356000
+                        ,",,,009715356999,iissharjah@gmail.com,,2011,9/6/2011 12:00:00 AM,mr.anis ahmad,0,m.a. m.ed. d.m.s.,,16,29,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2017",india international school managing committee,
+hari singh public school,530754,HARYANA,REWARI,RewariModel Town,Hari singh public school,123401,"01274-222710
+                        ,","01274-222710
+                        ,",31457,31457,,Kala@genesismediamail.com,,1974,4/1/1974 12:00:00 AM,anil mukhija,0,M.A B.Ed,,4,12,Senior Secondary,Provisional,1/4/2012,"31/
+                    3/
+                    2017",hari singh shikshan sansthan rewari,
+Shree Atam Vallabh Jain Vidyamandir School,1630560,PUNJAB,FEROZEPUR,MakhuZira,"Shree Atam Vallabh Jain Vidyamandir School, Zira(Ferozepur)",142047,"01682-254741
+                        ,","01682-254741
+                        ,",,,01682-254741,rajkumar_nanreh@yahoo.com,,1994,4/8/2008 12:00:00 AM,Amit Grover,0,"M.A., B.Ed.",,2,8,Secondary School,Provisional,1/4/2012,31/3/2017,Shri Atam Vallabh Jain Vidya Peeth," Shree Atam Vallabh Jain Vidyamandir School Affiliation Code:1630560 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Shree Atam Vallabh Jain Vidyamandir School, Zira(Ferozepur) Phone Num: STD Code: PhNo: 01682-254741 , Fax: City: 142047 Email:rajkumar_nanreh@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+manav mangal SMART SCHOOL,1630506,PUNJAB,MOHALI,"Chandigarh Phase -XI , Mohali","Sector 64 , Phase X , Mohali , Punjab",160062,"0172-5053111 , 0172-5053222
+                        ,","0172-5053111 , 0172-5053222
+                        ,",,,"0172-5053111 , 0172-5053222",sanjaysardana@sify.com,,2006,2/10/2007 12:00:00 AM,Neena Rodrigues,2,"M.A (English ) , B.ED.",,5,8,Secondary School,Provisional,1/4/2012,31/3/2017,Manav Mangal Society,
+aryan international public school,2131360,uttar pradesh,MUZAFFARNAGAR,khataulijansath,"garhi road, jansath, Muzaffar Nagar,",251314,"9319691632
+                        ,","9319691632
+                        ,",272137,272137,,akashkumar2005@hotmail.com,,2008,4/1/2008 12:00:00 AM,Mr.manoj chauhan,2,"M.A,B.Ed",,3,3,Secondary School,Provisional,1/4/2015,31/3/2017,Ekta rural research introduction for keen activities foundation and charitable trust,
+Tulip Public School,2131223,uttar pradesh,ETAH,EtahEtah,"Tulip Public School,Nidhauli Road,5-B,Aruna Nagar,Etah,U.P.",207001,"05742-238500
+                        ,","05742-238500
+                        ,",26710543,26710543,05742-234300,tulippublicschool@yahoo.com,,2009,4/1/2009 12:00:00 AM,Mrs. Bindu Jaiswal,2,,,,,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016","Maitreya Education Society,Chandrakuti,Shikohabad Road,Etah",
+STERLING PUBLIC SCHOOL,2131341,uttar pradesh,MAHARAJGANJ,SISWA BAZARKOTHIBHAR,"STERLING PUBLIC SCHOOL, VILAGE- SISWA KHURD; P.O-SISWA BAZAR; DISTRICT-MAHARAJGANJ (UP)-273153",273153,"09336232523
+                        ,","09336232523
+                        ,",221229,221229,,sterlingpublicschool@gmail.com,http://www.sterlingeducation.in,2006,7/10/2006 12:00:00 AM,Mr.Rajesh Kumar Singh,2,MA; B.Ed,,10,10,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2017",TARAI VIKAS SAMITI,
+"GRAMIN STHALI SR. SEC. SCHOOL, MORWALA (Bhiwani)",531038,HARYANA,BHIWANI,Charkhi DadriCharkhi Dadri,"Gramin Sthali Sr. Sec. School, Bigowa, Near Charkhi Dadri, 
+Distt. Bhiwani, Haryana.",123306,"01250-254847
+                        ,","01250-254847
+                        ,",,,0,gramin_school@yahoo.com,,1994,4/13/1994 12:00:00 AM,R.K. Upadhyay,,"M.A., B.Ed., Ph.D.",,17,20,Senior Secondary,Provisional,1/4/2012,"31/
+                    3/
+                    2015",GRAMIN STHALI EDUCATION SOCIETY,
+PARVATI RADHAKISHEN FOMRA SCHOOL,2131013,uttar pradesh,MATHURA,MATHURA JNHIGHWAY THANA,PARVATI RADHAKISHEN FOMRA SCHOOL VILLAGE KHAMNI GOVERDHAN ROAD MATHURA 281501,281501,"0565-2566023
+                        ,","0565-2566023
+                        ,",,,0565-2566023,kbjad@yahoo.com,,2007,4/16/2007 12:00:00 AM,KULBHUSHAN JAD,,M.A MEd,,12,20,Senior Secondary,,"31/
+                    3/
+                    2014",GD BIRLA MEDICAL RESEARCH AND  EDUCATION FOUNDATION MUMBAI,,
+BHARATHIYA VIDYA BHAVAN'S SCHOOL,930915,KERALA,THRISSUR,thrissuranthikkad,kanjani,680612,"0487-2639431
+                        ,","0487-2639431
+                        ,",,,,bvbkanjani@gmail.com,,2004,6/1/2005 12:00:00 AM,beena,0,PG,,1,8,Secondary School,Provisional,1/4/2015,31/3/2020,"bharathiya vidya bhavan, mumbai",
+St. Peters School,1130140,MAHARASHTRA,BHANDARA,Bhandara RoadBhandara,"Bela,Bhandara",441906,"07184255067
+                        ,","07184255067
+                        ,",,,,spsbela@sancharnet.in,,2001,7/16/2001 12:00:00 AM,Sr. Shiji Mathew,2,"M.Sc,B.Ed",,05,05,Secondary School,Provisional,1/4/2011,31/3/2016,Nagpur R C Dioceson Corporation Pvt. Ltd PTR No. D{2} N,
+The Sapphire School,1030325,MADHYA PRADESH,RATLAM,"RatlamAudhyogik Thana,Alkapuri","Sapphire School Campus, Barwad,Sailana Road, Distt Ratlam, Madhya Pradesh",457001,"07412-222033
+                        ,","07412-222033
+                        ,",,,,sapphiresch@gmail.com,,2000,6/15/2000 12:00:00 AM,Tripti singh,2,"M.A., B.Ed.",,5,13,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2018","Sapphire Education Society,Ratlam",
+LOTUS INTERNATIONAL SCHOOL,1030625,MADHYA PRADESH,UJJAIN,BADNAGARBANGRED,BANGRED DISTRICT UJJAIN,456771,"07367-205560
+                        ,","07367-205560
+                        ,",,,07367-205560,lotusconventschool@gmail.com,http://www.lotusinternationalschool.co.in,2011,6/15/2012 12:00:00 AM,Mr.HARISH CHAWDA,1,M.SC.B.ED,,06,08,Secondary School,Provisional,1/4/2013,31/3/2016,BANGRED LOTUS SHIKSHA VIKAS SAMITI,
+"ST. MARY CHAMPION HR. SEC. SCHOOL, INDORE",1030494,MADHYA PRADESH,INDORE,INDORECHANDAN NAGAR,"ST. MARY CHAMPION HR. SEC. SCHOOL, NAVDAPANTH, DHAR ROAD, (NEAR STATE OF INDORE), INDORE",453001,"0731-2895443
+                        ,","0731-2895443
+                        ,",09897046664,09897046664,0731-4075604,principal_smchss@yahoo.com,,1994,7/1/1994 12:00:00 AM,ISABEL SWAMY,1,"M.A., B.ED.",,15,18,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2018",SOCIETY OF MOTHER MARY,
+Bhanpura Public School Bhanpura,1030474,MADHYA PRADESH,MANDSAUR,Bhawani MandiBhanpura,"Bhanpura, Dak Banglow Colony, Bhanpura",458775,"07427-236617
+                        ,","07427-236617
+                        ,",331003,331003,07427-236611,bhanpurabps@gmail.com,,1997,8/26/1998 12:00:00 AM,Dr. Manish Saxena,1,"M.Sc., M.Ed., Ph.D.",,15,11,Senior Secondary,Provisional,1/4/2015,"31/
+                    3/
+                    2020",Bhanpura Public School sanchalan samiti,
+Saranya Concept School,130291,ANDHRA PRADESH,EAST GODAVARI,KakinadaKorangi,"Door.No.: 2-4/11,
+G.Vemavaram - 533461
+Koringa Post,
+Thallarevu Mandal.",533461,"08842315267
+                        ,","08842315267
+                        ,",140117081,140117081,,saranyaconceptschoolgvm@gmail.com,,2009,6/13/2011 12:00:00 AM,Mrs.B.M.Kameswari,2,"M.A., M.Ed",,8,20,Secondary School,Provisional,1/4/2015,31/3/2020,Sreemath Upanishat Siddantha Acharya Peetham,
+DELHI MODEL PUBLIC SCHOOL,330374,BIHAR,BHOJPUR,KULHARIAKOILWAR,"KULHARIA, NEAR ABOUT KULHARIA BAZAAR, P.O. KULHARIA",802160,"09852973075
+                        ,","09852973075
+                        ,",,,,singh.jayshree30@gmail.com,,2009,1/20/2010 12:00:00 AM,ER. SUNDARAM KUMAR,0,,,,,Secondary School,Provisional,1/4/2015,31/3/2017,DELHI MODEL PUBLIC SCHOOL SOCIETY," DELHI MODEL PUBLIC SCHOOL Affiliation Code:330374 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:DELHI MODEL PUBLIC SCHOOL,KULHARIA,NEAR ABOUT KULHARIA BAZAAR, P.O. KULHARIA Phone Num: STD Code:06115 PhNo: 09852973075 , Fax: City: 802160 Email:singh.jayshree30@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Sri Saradha Nikethan Public School,130281,ANDHRA PRADESH,PRAKASAM,ChiralaMARTUR,"Sri Saradha Nikethan Public School 
+Martur -523301",523301,"08404 271122
+                        ,","08404 271122
+                        ,",,,08404271124,srisaradhanikethanpcm444@gmail.com,0,june,6/18/2009 12:00:00 AM,K.Partha Saradhi,,Msc BEd,,5,5,Senior Secondary,,"31/
+                    3/
+                    2018",POLINENI CHINNAMMAI MEMORIAL TRUST,,
+"M.D.SR. SEC. SCHOOL, Neemriwali (Bhiwani)",530827,HARYANA,BHIWANI,BhiwaniBhiwani,"M.D. Sr. Sec. School, Neemriwali (Bhiwani), Haryana.",127309,"9416212466
+                        ,","9416212466
+                        ,",,,,shiksha.hitkari@yahoo.com,,2006,4/1/2007 12:00:00 AM,Sunita,0,"M.A., B.Ed.",,12,08,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2018",Sarva Hitkari Siksha Samiti,
+Jim Corbett School,3530269,UTTARANCHAL,NAINITAL,-,"Jim Corbett School,Polysheet, Teri Pulia, Kathgodam. Distt:-Nainital",263626,"222325
+                        ,","222325
+                        ,",,,06542 276894,shashinegi2001@yahoo.com,,1993,4/1/1993 12:00:00 AM,REENA SHARMA,0,"B.Sc., B.Ed.",,12,21,Secondary School,Provisional,1/4/2013,31/3/2018,"DAV College Managing Comittee,New Delhi"," Jim Corbett School Affiliation Code:3530269 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Jim Corbett School,Polysheet, Teri Pulia, Kathgodam. Distt:-Nainital Phone Num: STD Code:05946 PhNo: 222325 , Fax: City: 263626 Email:shashinegi2001@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Delhi Public School Sagar,1030635,MADHYA PRADESH,SAGAR,SagarMotinagar Police Station,"Delhi Public School,Sagar -Bina Road,Village Pathariya Hat,Ahead of Haryali Bazar",470002,"07582244080
+                        ,","07582244080
+                        ,",,,,enquiry@dpssagar.com,http://www.dpssagar.com,2012,6/16/2012 12:00:00 AM,MR. PRIYADARSHI NAYAK,1,,,,,Secondary School,Provisional,1/4/2013,31/3/2016,Dau Motilal Chhotelal Educational Society," Delhi Public School Sagar Affiliation Code:1030635 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Delhi Public School,Sagar -Bina Road,Village Pathariya Hat,Ahead of Haryali Bazar Phone Num: STD Code: PhNo: 07582244080 , Fax: City: 470002 Email:enquiry@dpssagar.com, Website:http://www.dpssagar.com Courses of study offered: This school follows the CBSE curriculum"
+Uma Nath Singh Higher Secondary School,2131235,uttar pradesh,JAUNPUR,JafrabadJafrabad,"Uma Nath Singh Higher Secondary School, Sakargunj, Maharupur, Jaunpur",222180,"05452-261815
+                        ,","05452-261815
+                        ,",,,,nicky1234@yahoo.in,,2007,4/1/2007 12:00:00 AM,Shri Awadhesh Chandra Mishra,0,M.A. B.Ed,,12,12,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",late Uma Nath Singh Saishik And Dharamarth Trust,
+Karan Public School,530365,HARYANA,JHAJJAR,BhadurgarhJhajjar,"Karan Public School 
+Model Town 
+Jhajjar",124103,"01251-252852
+                        ,","01251-252852
+                        ,",,,,karnpublicschool@yahoo.com,,2000,4/1/2000 12:00:00 AM,Joginder Singh,1,"M.A., B. Ed",,10,12,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2019",Karan Education Society Jhajjar,
+"JYOTI CONVENT SR. SEC. SCHOOL, BIAORA",1030448,MADHYA PRADESH,RAJGARH,BIAORABIAORA,"JYOTI CONVENT SR. SECONDARY SCHOOL, BIAORA",465674,"07374-232123
+                        ,","07374-232123
+                        ,",2001,2001,,augustine_thevarkunnel@yahoo.com,,1973,8/1/1973 12:00:00 AM,TESSY AUGUSTINE,1,"M.A., B.ED.",,15,30,Senior Secondary,Provisional,1/4/2012,"31/
+                    3/
+                    2017",THE DIOCESE OF UJJAIN,
+THE B.V.B. SCHOOL THERKUPPALLAM,1930381,TAMILNADU,PERIYAR,ERODEERODE TALUK,"THE B.V.B. SCHOOL, THERKUPPALLAM,",638012,"0424 2430766
+                        ,","0424 2430766
+                        ,",,,,bvbprimary20@yahoo.in,,2011,6/1/2011 12:00:00 AM,Mrs.Sudha Balachandran,,"B.Sc., M.Ed., M.A., M.Phil",,17,17,Secondary School,Provisional,1/4/2012,31/3/2015,GRAMA MANAVAR KALVI KAZHAGAM," THE B.V.B. SCHOOL THERKUPPALLAM Affiliation Code:1930381 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:THE B.V.B. SCHOOL, THERKUPPALLAM, Phone Num: STD Code: PhNo: 0424 2430766 , Fax: City: 638012 Email:bvbprimary20@yahoo.in, Website: Courses of study offered: This school follows the CBSE curriculum"
+"St. Pius School, Sheopur",1030423,MADHYA PRADESH,SHEOPUR,SHEOPURCITY KOTWALI,"St. Pius School,
+Pali Road,
+Sheopur",476337,"07530222221
+                        ,","07530222221
+                        ,",,,07512569300,stpiussheopur@gmail.com,,2001,7/19/2001 12:00:00 AM,FR. DIONYSIUS R.B.,0,"Ph. D., M.A., B. Ed.",,15,20,Secondary School,Provisional,1/4/2012,31/3/2017,CATHOLIC DIOCESE OF GWALIOR," St. Pius School, Sheopur Affiliation Code:1030423 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:St. Pius School,Pali Road,Sheopur Phone Num: STD Code: PhNo: 07530222221 , Fax: City: 476337 Email:stpiussheopur@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Woodlands Overseas School,1630453,PUNJAB,HOSHIARPUR,HoshiarpurHariana,"Woodlands Overseas School, VPO Sataur,Dasuya Road",146001,"01882-277771
+                        ,","01882-277771
+                        ,",,,01881- 276971,woschool@gmail.com,http://www.woschool.com,2003,4/4/2004 12:00:00 AM,Simerjeet Kaur,0,"BSc., BEd., MEd.",,2,5,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2018",Overseas Benevolent Educational Society,
+Shri Dharmasthala Manjunatheshwara English Medium School,830197,KARNATAKA,SOUTH KANNADA,HASANUJIRE POLICE STATION,"S D M English Medium School, Ujire, Belthangadi Tq, Dakshina Kannada - 574240.",574240,"08256-236488
+                        ,","08256-236488
+                        ,",22273,22273,08256-236220,sdmesho@gmail.com,http://www.sdminstitutions.org,2006,6/2/2006 12:00:00 AM,Manmohan Naik,1,B.Sc.B.Ed,,3,9,Secondary School,Provisional,1/4/2011,31/3/2016,"Shri Dharmasthala Manjunatheshwara Educational Society, Ujire"," Shri Dharmasthala Manjunatheshwara English Medium School Affiliation Code:830197 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:S D M English Medium School, Ujire, Belthangadi Tq, Dakshina Kannada - 574240. Phone Num: STD Code:01681 PhNo: 08256-236488 , Fax:22273 City: 574240 Email:sdmesho@gmail.com, Website:http://www.sdminstitutions.org Courses of study offered: This school follows the CBSE curriculum"
+"SHANTI NIKETAN PUBLIC SCHOOL, BHADRA",1730439,RAJASTHAN,HANUMANGARH,BHADRABHADRA,"SHANTI NIKETAN PUBLIC SCHOOL, SANJAY CHOWK, BHADRA DISTT. HANUMANGARH (RAJ.)",335501,"01504-225333
+                        ,","01504-225333
+                        ,",331003,331003,,snpsbhadra@gmail.com,www.snpsbhadra.org,2004,4/1/2004 12:00:00 AM,KRANTI,1,"B.A. (Hons), M.A. (Eng), M.A. (Hindi), B.Ed.",,3,6,Senior Secondary,Provisional,1/4/2012,"31/
+                    3/
+                    2015","Shanti Niketan Educational Society, Bhadra",
+St. SOLDIER DIVINE PUBLIC SCHOOL,1630577,PUNJAB,HOSHIARPUR,TandaTanda`,"ST SOLDIER DIVINE PUBLIC SCHOOL GURU NANAK NAGAR, NEAR NEW GRAIN MARKET TANDA DISTT.HOSHIARPUR PB.INDIA",144212,"01886222680
+                        ,","01886222680
+                        ,",,,01886222680,munish_kumar_01@yahoo.com,http://www.stsoldierinstitutions.com,2005,4/1/2005 12:00:00 AM,MUNISH KUMAR VAID,0,MA(Maths)BSc BEd.,,9,9,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",St. Soldier Educational Society,
+Holy Field Model Sr. Sec. School,531082,HARYANA,HISSAR,jindNarnaund,"Holy Field Model Sr. Sec. School ,Jind road ,Narnaund (Hissar)",125039,"01663-233188
+                        ,","01663-233188
+                        ,",,,,hfmschol@gmail.com,,2008,4/1/2009 12:00:00 AM,MissMamta,0,"M.A,M.Ed,M.Phil",,02,06,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",Holy Field Education society,
+"k.l.e. society's school, saundatti",830450,KARNATAKA,BELGAUM,Dhrwad Railway StationSaundatti Police Station,"bus stand road, saundatti - 591126",591126,"08330223566
+                        ,","08330223566
+                        ,",,,08330223566,skleemssdt@yahoo.com,,1998,6/17/1998 12:00:00 AM,missvarsha s. gaonkar,0,"m.a. b, ed.",,8,10,Secondary School,Provisional,1/4/2015,31/3/2018,"the karnatak lingayat education society, belgaum.",
+KURINJI SCHOOL,1930373,TAMILNADU,NAMAKKAL,NAMAKKALNAMAKKAL,"KURINJI SCHOOL,
+KAVETTIPATTY,
+VALLIPURAM PO.,
+NAMAKKAL TK.,",637003,"04286285101
+                        ,","04286285101
+                        ,",,,,kurinjischoolnkl@gmail.com,,2010,6/3/2010 12:00:00 AM,Mrs. Suganya Sivamani,2,"M.C.A., B.Ed., Ph.D",,,,Secondary School,Provisional,1/4/2012,31/3/2015,SRI VENKATESWARA EDUCATIONAL TRUST," KURINJI SCHOOL Affiliation Code:1930373 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:KURINJI SCHOOL,KAVETTIPATTY,VALLIPURAM PO.,NAMAKKAL TK., Phone Num: STD Code: PhNo: 04286285101 , Fax: City: 637003 Email:kurinjischoolnkl@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+JAIN GLOBAL SCHOOL,830408,KARNATAKA,KOLAR,Bangarpet JunctionBangarpet,"JAIN GLOBAL SCHOOL
+#179/899, Indra Nagar,
+Bangarpet - 563114",563114,"08153-290100
+                        ,","08153-290100
+                        ,",,,,dpradeepjain@hotmail.com,http://www.jainglobal.in,2009,6/17/2009 12:00:00 AM,Chandrika Krishna,0,"M.A History, M. A English, B.Ed",,5,26,Secondary School,Provisional,1/4/2012,31/3/2015,Sri Jain Educational Social Cultural Welfare Charitable Trust," JAIN GLOBAL SCHOOL Affiliation Code:830408 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:JAIN GLOBAL SCHOOL#179/899, Indra Nagar,Bangarpet - 563114 Phone Num: STD Code: PhNo: 08153-290100 , Fax: City: 563114 Email:dpradeepjain@hotmail.com, Website:http://www.jainglobal.in Courses of study offered: This school follows the CBSE curriculum"
+"SHRI SAI PUBLIC SCHOOL, ALAMPUR GAVRI",2131280,uttar pradesh,BIJNOUR,DHAMPURAFZALGARH,"SAHRI SAI PUBLIC SCHOOL, ALAMPUR GAVRI
+VILL. & PO.-ALAMPUR GAVRI",246761,"01344-220544
+                        ,","01344-220544
+                        ,",,,,atit_divya@reliancemail.net,,2004,4/2/2004 12:00:00 AM,MANJU CHAUHAN,0,"M.A., B.Ed.",,0,4,Secondary School,Provisional,1/4/2011,31/3/2014,"SHIKSHA PRASAR AND KALYAN SAMITTEE, BHOOTPURI"," SAHRI SAI PUBLIC SCHOOL, ALAMPUR GAVRI Affiliation Code:2131280 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:SAHRI SAI PUBLIC SCHOOL, ALAMPUR GAVRIVILL. & PO.-ALAMPUR GAVRI Phone Num: STD Code: PhNo: 01344-220544 , Fax: City: 246761 Email:atit_divya@reliancemail.net, Website: Courses of study offered: This school follows the CBSE curriculum"
+"JSS Private School,",6630064,FOREIGN SCHOOLS,UNITED ARAB EMIRATES,Business Bay Railway StationJumaira Police Station,"Al Safa Dubai,",126721,"97143446419
+                        ,","97143446419
+                        ,",,,97143446519,info@jsspsdubai.com,http://www.jsspsdubai.com,2011,4/3/2011 12:00:00 AM,Mrs.Chitra Sharma,0,M.A in English,,10,22,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2017","JSS Mahavidyateetha, Mysore",
+St. Kolbe's School,1030584,MADHYA PRADESH,DATIA,DatiaIndergarh,"Datia Road, Indergarh, Datia",475675,"07521-274544
+                        ,","07521-274544
+                        ,",6499422,6499422,,stkolbesch@gmail.com,www.stkolbeschooledu.co.in,2000,3/18/2000 12:00:00 AM,Fr. Michael Anthone,1,"B.A., B. Ed.",,5,5,Secondary School,Provisional,1/4/2015,31/3/2020,Catholic Diocese of Gwalior,
+"Navyug School, Mandir Marg, New Delhi-110001",2730608,DELHI,NEW DELHI,New DelhiMandir Marg,"Navyug School, 
+Mandir Marg,",110001,"011-23366022
+                        ,","011-23366022
+                        ,",,,011-23360310,principal.nsmm@gmail.com,www.ndmc.gov.in,2007,4/1/2008 12:00:00 AM,V.K.Sethi,0,"M.Sc., B.Ed.",,1,28,Senior Secondary,Provisional,1/4/2011,"31/
+                    3/
+                    2014",NSES,
+Uma Nath Singh Higher Secondary School,2131235,uttar pradesh,JAUNPUR,JafrabadJafrabad,"Uma Nath Singh Higher Secondary School, Sakargunj, Maharupur, Jaunpur",222180,"05452-261815
+                        ,","05452-261815
+                        ,",,,,nicky1234@yahoo.in,,2007,4/1/2007 12:00:00 AM,Shri Awadhesh Chandra Mishra,0,M.A. B.Ed,,12,12,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",late Uma Nath Singh Saishik And Dharamarth Trust,
+sahil public school,2130930,uttar pradesh,GAUTAM BUDH NAGAR,DADRIBISRAKH,"sahil public school, village kherpur gujjar, post office bisrakh.",201301,"0120 - 4352223
+                        ,","0120 - 4352223
+                        ,",,,0120 - 4352223,sps_kherpur@rediffmail.com,,2006,4/3/2006 12:00:00 AM,Manjula Gupta,0,"M.A., Bed",,8,15,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2018",Akhil bhartiyagyan bharty vidyala samti,
+KENDRIYA VIDYALAYA,1500038,ORISSA,KANDHAMAL,-,"AT OLD AJO HIGH SCHOOL CAMPUS, NEAR OFFICE OF THE C.I. OF SCHOOLS, MAIN ROAD, PHULBANI, DISTT. KANDHMAL, ORISSA",762012,"255335
+                        ,","255335
+                        ,",,,,,,1986,4/1/1991 12:00:00 AM,BHAGABAN NAYAK,0,,,,,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2015",DIR. OF  EDUCATION,
+Jeevan Jyoti Public School,1730569,RAJASTHAN,JODHPUR,JodhpurBasni,School Plot Vijay Raje Nagar Pali Bye Pass,342302,"0744-2500692
+                        ,","0744-2500692
+                        ,",,,0744-2500892,om@cpil.in,,2003,7/2/2003 12:00:00 AM,Mrs.Vijaya Khandelwal,0,MA B Ed,,5,10,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",Jeevan Raksha Shikshan Sansthan,
+K L E SOCIETY'S ENGLISH MEDIUM SCHOOL,830155,KARNATAKA,HAVERI,-,CONVENT SCHOOL IJASI LAKAMAPUR ROAD HAVERI KARNTAKA,581110,"236915
+                        ,","236915
+                        ,",,,,,,1999,6/2/2006 12:00:00 AM,SMT A M ALMEDIA,2,,,,,Secondary School,Provisional,1/4/2011,31/3/2016,KARNATAKA LINGAYATH EDN SOCIETY,
+TRAVANCORE DEVASWOM BOARD CENTRAL SCHOOL,930795,KERALA,KOLLAM,PUNALURKADAKKAL,"ALTHARAMOOD, KADAKKAL(PO), KOLLAM",691536,"04742426425
+                        ,","04742426425
+                        ,",543373,543373,,tdbcskadakkal@gmail.com,,2003,6/2/2003 12:00:00 AM,Dr.THOTTAM BHUVANENDRAN NAIR,1,"MA,PhD.",,5,15,Secondary School,Provisional,1/4/2012,31/3/2017,TRAVANCORE DEVASWOM BOARD,
+V.P.Ms B.R.Tol English High School,1130273,MAHARASHTRA,MUMBAI,MulundNavghar Mhada Police Station,"Mithagar Road, Mulund(E)",400081,"02225634894
+                        ,","02225634894
+                        ,",,,,angelina.nelson@gmail.com,,1972,8/11/1972 12:00:00 AM,Mary Rani Angelina Nelson,0,M.Sc. M.Ed. M.Phil,,2,23,Secondary School,Provisional,1/4/2014,31/3/2019,Vidya Prasarak Mandal,
+TRAVANCORE DEVASWOM BOARD CENTRAL SCHOOL,930793,KERALA,KOLLAM,KOTTARAKKARAKOTTARAKKARA,"VETTIKAVALA,KOTTARAKARA,KOLLAM",691538,"0474 2403600
+                        ,","0474 2403600
+                        ,",2767054,2767054,,tdbcsvtk@yahoo.com,,2003,6/2/2003 12:00:00 AM,G.CHANDRASEKHARAN NAIR,1,"BA, B Ed.",,3,28,Secondary School,Provisional,1/4/2012,31/3/2017,TRAVANCORE DEVASWOM BOARD,
+Dronacharya Sr. Sec. School,530945,HARYANA,JHAJJAR,KosliKosli,"Dronacharya Sr. Sec. School V.Po. Mubarikpur
 Teh.&Distt. Jhajjar
 Haryana
 124109",124109,"09416261335
                         ,","09416261335
                         ,",016352-33004,016352-33004,,rao_vikas@hotmail.com,,1997,4/1/1997 12:00:00 AM,Randhir Singh,2,"M.A.,B.Ed.",,8,10,Senior Secondary,Provisional,1/4/2014,"31/
                     3/
-                    2019",Dronacharya Shiksha Samiti
-Vimalagiri Public School,931005,KERALA,THRISSUR,"Vimalagiri Public School,KundukadP.O,Karuvankad,Thrissur,Kerala",680028,"0487-2693670
-                        ,","0487-2693670
-                        ,",,,,vimalagirithrissur@gmail.com,,2004,5/31/2006 12:00:00 AM,Mrs.Reena Roy,0,"M.Sc,B.Ed",,7,10,Secondary School,Provisional,1/4/2013,31/3/2016,VimalagiriVidyapeetam
-St. Kolbe's School,1030584,MADHYA PRADESH,DATIA,"Datia Road, Indergarh, Datia",475675,"07521-274544
-                        ,","07521-274544
-                        ,",6499422,6499422,,stkolbesch@gmail.com,www.stkolbeschooledu.co.in,2000,3/18/2000 12:00:00 AM,Fr. Michael Anthone,1,"B.A., B. Ed.",,5,5,Secondary School,Provisional,1/4/2015,31/3/2020,Catholic Diocese of Gwalior
-DELHI MODEL PUBLIC SCHOOL,330374,BIHAR,BHOJPUR,"KULHARIA, NEAR ABOUT KULHARIA BAZAAR, P.O. KULHARIA",802160,"09852973075
-                        ,","09852973075
-                        ,",,,,singh.jayshree30@gmail.com,,2009,1/20/2010 12:00:00 AM,ER. SUNDARAM KUMAR,0,,,,,Secondary School,Provisional,1/4/2015,31/3/2017,DELHI MODEL PUBLIC SCHOOL SOCIETY
-Shree Swaminarayan English Medium  School,430120,GUJARAT,VALSAD,"Shree Swaminarayan English Medium School, N.H. No. 8, Salvav",396191,"0260- 6537909
+                    2019",Dronacharya Shiksha Samiti,
+Manava Bhawna Public School,2730647,DELHI,NORTH DELHI,old delhi railway stationswaroop vihar,"Manava Bhawna Public School Nathupura Main Road Near Bus Stand,Burari.",110084,"011-27731003
+                        ,","011-27731003
+                        ,",,,,mbes_education@yahoo.co.in,,1989,4/3/1989 12:00:00 AM,Urmilla Gaur,0,M.A B.Ed,,14,6,Secondary School,Provisional,1/4/2014,31/3/2019,Manava Bhawna Educational Society," Manava Bhawna Public School Affiliation Code:2730647 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Manava Bhawna Public School Nathupura Main Road Near Bus Stand,Burari. Phone Num: STD Code: PhNo: 011-27731003 , Fax: City: 110084 Email:mbes_education@yahoo.co.in, Website: Courses of study offered: This school follows the CBSE curriculum"
+Sri Guru Gobind Singh Public School,2630066,CHANDIGARH,CHANDIGARH(UT),CHANDIGARHSECTOR-34,Sector-35B Chandigarh-160035,160035,"01722647077
+                        ,","01722647077
+                        ,",,,,sggs.pub@gmail.com,,1986,4/1/1986 12:00:00 AM,Kanwaljit Kaur,0,M.A. (Eng.) B.Ed.,,11,18,Secondary School,Provisional,1/4/2014,31/3/2019,CHANDIGARH GURUDWARA ASTHAPAN COMMITTEE-22,
+Bharati Vidyapeeth God's Valley International School,1130150,MAHARASHTRA,SATARA,SataraPanchgani,Bharati Vidyapeeth Gods Valley International School,412805,"02168 240580
+                        ,","02168 240580
+                        ,",08698903030,08698903030,02168 241699,ashwani_20022@rediffmail.com,http://www.gvis.in,1988,6/10/1988 12:00:00 AM,MR. SUNNY MATHEW,0,,,17,,Senior Secondary,Provisional,1/4/2011,"31/
+                    3/
+                    2016","Bharati Vidyapeeth, Pune",
+Shree Swaminarayan English Medium  School,430120,GUJARAT,VALSAD,VapiVapi,"Shree Swaminarayan English Medium School, N.H. No. 8, Salvav",396191,"0260- 6537909
                         ,","0260- 6537909
                         ,",260367,260367,,ssemhs4@gmail.com,,2000,6/6/2000 12:00:00 AM,Meenakshi Suresh Dhumal,2,MSc. BEd.,,1,8,Senior Secondary,Provisional,1/4/2014,"31/
                     3/
-                    2019",Shree Swaminarayan Shikshan Seva Kendra
-"DELHI PUBLIC SCHOOL, BARRA",2131349,uttar pradesh,KANPUR,"DELHI PUBLIC SCHOOL, MEHARBAN SINGH KA PURWA, BARRA, KANPUR",208002,"05122683514
-                        ,","05122683514
-                        ,",,,05122217861,dpsazadnagar@gmail.com,http://www.dpsbarra.com,2010,4/1/2010 12:00:00 AM,Mrs.SHILPA MANISH,0,"M.A., B.Ed",,5,15,Senior Secondary,Provisional,1/4/2014,"31/
-                    3/
-                    2017",SHYAM BEHARI MISRA MEMORIAL CHARITABLE TRUST
-BHARATHIYA VIDYA BHAVAN'S SCHOOL,930915,KERALA,THRISSUR,kanjani,680612,"0487-2639431
-                        ,","0487-2639431
-                        ,",,,,bvbkanjani@gmail.com,,2004,6/1/2005 12:00:00 AM,beena,0,PG,,1,8,Secondary School,Provisional,1/4/2015,31/3/2020,"bharathiya vidya bhavan, mumbai"
-"TAGORE CENTRAL SCHOOL,HARIPAD",930943,KERALA,ALAPPUZHA,"TAGORE CENTRAL SCHOOL,
-HARIPAD",690514,"0479-2404099
-                        ,","0479-2404099
-                        ,",9447978075,9447978075,0479-2404099,elizabeth.mathew121@gmail.com,,1999,6/2/1999 12:00:00 AM,Mrs. Elizabeth Mathew,2,,,,,Secondary School,Provisional,1/4/2012,31/3/2015,"JYOTHIRGAMAYA CHARITABLE SOCIETY,MUTTOM,HARIPAD."
-THE B.V.B. SCHOOL THERKUPPALLAM,1930381,TAMILNADU,PERIYAR,"THE B.V.B. SCHOOL, THERKUPPALLAM,",638012,"0424 2430766
-                        ,","0424 2430766
-                        ,",,,,bvbprimary20@yahoo.in,,2011,6/1/2011 12:00:00 AM,Mrs.Sudha Balachandran,,"B.Sc., M.Ed., M.A., M.Phil",,17,17,Secondary School,Provisional,1/4/2012,31/3/2015,GRAMA MANAVAR KALVI KAZHAGAM
-Vanaprastha International School,1930256,TAMILNADU,SALEM,"Vanaprastha International School, Mugulappalli",635105,"04344291291
-                        ,","04344291291
-                        ,",,,,vanaprasth@gmail.com,http://www.vanaprastha.org,2005,6/6/2005 12:00:00 AM,Maria Xavier,0,BEd,,5,16,Secondary School,Provisional,1/4/2013,31/3/2018,Vanaprastha Educational Trust
-Delhi Public School Sagar,1030635,MADHYA PRADESH,SAGAR,"Delhi Public School,Sagar -Bina Road,Village Pathariya Hat,Ahead of Haryali Bazar",470002,"07582244080
-                        ,","07582244080
-                        ,",,,,enquiry@dpssagar.com,http://www.dpssagar.com,2012,6/16/2012 12:00:00 AM,MR. PRIYADARSHI NAYAK,1,,,,,Secondary School,Provisional,1/4/2013,31/3/2016,Dau Motilal Chhotelal Educational Society
-Sri Saradha Nikethan Public School,130281,ANDHRA PRADESH,PRAKASAM,"Sri Saradha Nikethan Public School 
-Martur -523301",523301,"08404 271122
-                        ,","08404 271122
-                        ,",,,08404271124,srisaradhanikethanpcm444@gmail.com,0,june,6/18/2009 12:00:00 AM,K.Partha Saradhi,,Msc BEd,,5,5,Senior Secondary,,"31/
-                    3/
-                    2018",POLINENI CHINNAMMAI MEMORIAL TRUST,
-Saranya Concept School,130291,ANDHRA PRADESH,EAST GODAVARI,"Door.No.: 2-4/11,
-G.Vemavaram - 533461
-Koringa Post,
-Thallarevu Mandal.",533461,"08842315267
-                        ,","08842315267
-                        ,",140117081,140117081,,saranyaconceptschoolgvm@gmail.com,,2009,6/13/2011 12:00:00 AM,Mrs.B.M.Kameswari,2,"M.A., M.Ed",,8,20,Secondary School,Provisional,1/4/2015,31/3/2020,Sreemath Upanishat Siddantha Acharya Peetham
-KUSHWAHA ARMY PUBLIC SCHOOL,2130964,uttar pradesh,SAHARANPUR,"KUSHWAHA ARMY PUBLIC SCHOOL,9KM STONE,DELHI ROAD,SAHARANPUR.",247001,"01336246479
-                        ,","01336246479
-                        ,",,,,kushwahaschool@gmail.com,,2004,4/1/2004 12:00:00 AM,Mr. Anuj Sharma,1,,,,,Senior Secondary,Provisional,1/4/2012,"31/
-                    3/
-                    2015","KUSHWAHA EDUCATIONAL & CHARITABLE SOCIETY ,SAHARANPUR"
-DR. GUNDERT FOUNDATION SCHOOL,930805,KERALA,KANNUR,"MAIN ROAD, TELLICHERRY KANNUR",670101,"04902326870
-                        ,","04902326870
-                        ,",,,,murkot@sancharnet.com,http://www.gundertfoundationschool.org,1996,6/3/1996 12:00:00 AM,PREETHA VALAVIL,0,M.A.Bed,,5,20,Secondary School,Provisional,1/4/2015,31/3/2020,GUNDERT FOUNDATION
-st joseph''s english medium school,930815,KERALA,THRISSUR,"pazhookkara, annallo p.o thrissur - 680731",680731,"(0480)2719915
-                        ,","(0480)2719915
-                        ,",,,,tessygege76@yahoo.in,,2003,6/2/2003 12:00:00 AM,sr. tessy gege,0,"m.a., b.ed",,06,09,Secondary School,Provisional,1/4/2014,31/3/2019,st. joseph''''s convent
-St. SOLDIER DIVINE PUBLIC SCHOOL,1630577,PUNJAB,HOSHIARPUR,"ST SOLDIER DIVINE PUBLIC SCHOOL GURU NANAK NAGAR, NEAR NEW GRAIN MARKET TANDA DISTT.HOSHIARPUR PB.INDIA",144212,"01886222680
-                        ,","01886222680
-                        ,",,,01886222680,munish_kumar_01@yahoo.com,http://www.stsoldierinstitutions.com,2005,4/1/2005 12:00:00 AM,MUNISH KUMAR VAID,0,MA(Maths)BSc BEd.,,9,9,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2016",St. Soldier Educational Society
-J.S.S Shri Manjunatheshwara Central School,830455,KARNATAKA,DHARWAD,"J.S.S. Shri Manjunatheshwara Central School, Heggeri, Hubli, Karnataka.",580004,"2205055
-                        ,","2205055
-                        ,",,,2205055,sadanashashivasann@gmail.com,http://smcs.org,2011,6/2/2011 12:00:00 AM,Mrs.Atma K Sindagi,0,M.A.B.Ed,,5,15,Secondary School,Provisional,1/4/2012,31/3/2015,Janatha Shishana Samithi
-New Vision Public School,1130210,MAHARASHTRA,BEED,"New Vision Public School, Ring Road, Ambajogai",431517,"245678(02446)
-                        ,","245678(02446)
-                        ,",,,,newvisionschool@ymail.com,http://www.balajieducation.com,2004,6/21/2004 12:00:00 AM,Rajeshwari Ekbote,0,"B.Sc., M.A., M.Ed.",,15,18,Secondary School,Provisional,1/4/2013,31/3/2018,Shri. Balaji Shikshan Prasark Mandal
-LIONS VOCATIONAL PUBLIC SCHOOL,1530134,ORISSA,BOLANGIR,"AT/PO-PATNAGARH
-DISTRICT- BALANGIR",767025,"06658-222629
-                        ,","06658-222629
-                        ,",,,,lvps.ptg@gmail.com,,1986,6/1/1986 12:00:00 AM,KANHAI CHARAN THAKUR,0,"BSc, B.Ed",,1,1,Secondary School,Provisional,1/4/2013,31/3/2018,"LIONS CLUB, PATNAGARH"
-Aathmalayaa Middle School,2930008,PONDICHERRY,KARAIKAL,"Aathmalayaa Nagar, School Road, Keezhzkasakudi, Karaikal - 609609.",609609,"04368292002
-                        ,","04368292002
-                        ,",5269807,5269807,,msn_06@rediffmail.com,,2004,6/9/2004 12:00:00 AM,Mrs.C.Sharmila Devi,1,"M.Phil., B.Ed.",,3,7,Secondary School,Provisional,1/4/2012,31/3/2015,Aathmalayaa Educational Public Trust
-samuels english medium school,630157,HIMACHAL PRADESH,KANGRA,"b.p.o.bundla-tea-estate,p.o.palampur",176061,"01894-232749
-                        ,","01894-232749
-                        ,",,,011-45538314,samuelsschool@gmail.com,,1992,4/1/1992 12:00:00 AM,bhuwan sharma,0,"b.s.c , b.ed",,5,7,Secondary School,Provisional,1/4/2014,31/3/2019,samuels educational committee
-S.B.Model School,531083,HARYANA,ROHTAK,"Bhiwani Road, Rohtak, Haryana",124001,"01262216682
-                        ,","01262216682
-                        ,",,,,sbmodelschool@gmail.com,,2011,4/4/2011 12:00:00 AM,Mrs.Krishna Rohilla,2,"M.A.,M.Phil.,B.Ed.",,11,26,Secondary School,Provisional,1/4/2013,31/3/2016,"Neta Ji Education Society,Janta Colony,Rohtak"
-PARVATI RADHAKISHEN FOMRA SCHOOL,2131013,uttar pradesh,MATHURA,PARVATI RADHAKISHEN FOMRA SCHOOL VILLAGE KHAMNI GOVERDHAN ROAD MATHURA 281501,281501,"0565-2566023
-                        ,","0565-2566023
-                        ,",,,0565-2566023,kbjad@yahoo.com,,2007,4/16/2007 12:00:00 AM,KULBHUSHAN JAD,,M.A MEd,,12,20,Senior Secondary,,"31/
-                    3/
-                    2014",GD BIRLA MEDICAL RESEARCH AND  EDUCATION FOUNDATION MUMBAI,
-A.S.M. PUBLIC SCHOOL,1730453,RAJASTHAN,SRI GANGANAGAR,"C.C. HEAD PADAMPUR
-DISTT. SRI GANGANAGAR",335041,"01505-281428, 281528
-                        ,","01505-281428, 281528
-                        ,",,,01505-222927,faqirchand2001@yahoo.co.in,,2001,4/1/2001 12:00:00 AM,BEANT SINGH PANNU,1,M.Sc. B.Ed,,03,08,Secondary School,Provisional,1/4/2013,31/3/2018,A.S. MEMORIAL SHIKSHAN SAMITI
-Shri Dharmasthala Manjunatheshwara English Medium School,830197,KARNATAKA,SOUTH KANNADA,"S D M English Medium School, Ujire, Belthangadi Tq, Dakshina Kannada - 574240.",574240,"08256-236488
-                        ,","08256-236488
-                        ,",22273,22273,08256-236220,sdmesho@gmail.com,http://www.sdminstitutions.org,2006,6/2/2006 12:00:00 AM,Manmohan Naik,1,B.Sc.B.Ed,,3,9,Secondary School,Provisional,1/4/2011,31/3/2016,"Shri Dharmasthala Manjunatheshwara Educational Society, Ujire"
-"k.l.e. society's school, saundatti",830450,KARNATAKA,BELGAUM,"bus stand road, saundatti - 591126",591126,"08330223566
-                        ,","08330223566
-                        ,",,,08330223566,skleemssdt@yahoo.com,,1998,6/17/1998 12:00:00 AM,missvarsha s. gaonkar,0,"m.a. b, ed.",,8,10,Secondary School,Provisional,1/4/2015,31/3/2018,"the karnatak lingayat education society, belgaum."
-JAIN GLOBAL SCHOOL,830408,KARNATAKA,KOLAR,"JAIN GLOBAL SCHOOL
-#179/899, Indra Nagar,
-Bangarpet - 563114",563114,"08153-290100
-                        ,","08153-290100
-                        ,",,,,dpradeepjain@hotmail.com,http://www.jainglobal.in,2009,6/17/2009 12:00:00 AM,Chandrika Krishna,0,"M.A History, M. A English, B.Ed",,5,26,Secondary School,Provisional,1/4/2012,31/3/2015,Sri Jain Educational Social Cultural Welfare Charitable Trust
-Holy Field Model Sr. Sec. School,531082,HARYANA,HISSAR,"Holy Field Model Sr. Sec. School ,Jind road ,Narnaund (Hissar)",125039,"01663-233188
-                        ,","01663-233188
-                        ,",,,,hfmschol@gmail.com,,2008,4/1/2009 12:00:00 AM,MissMamta,0,"M.A,M.Ed,M.Phil",,02,06,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2016",Holy Field Education society
-KURINJI SCHOOL,1930373,TAMILNADU,NAMAKKAL,"KURINJI SCHOOL,
-KAVETTIPATTY,
-VALLIPURAM PO.,
-NAMAKKAL TK.,",637003,"04286285101
-                        ,","04286285101
-                        ,",,,,kurinjischoolnkl@gmail.com,,2010,6/3/2010 12:00:00 AM,Mrs. Suganya Sivamani,2,"M.C.A., B.Ed., Ph.D",,,,Secondary School,Provisional,1/4/2012,31/3/2015,SRI VENKATESWARA EDUCATIONAL TRUST
-"ST. FRANCIS HIGHER SECONDARY SCHOOL, PITHAMPUR",1030361,MADHYA PRADESH,DHAR,"ST. FRANCIS HIGHER SECONDARY SCHOOL, SECTOR 1, PITHAMPUR, DIST. DHAR",454775,"07292 407294
-                        ,","07292 407294
-                        ,",2758565,2758565,,sfspithampur@yahoo.com.in,,1995,7/1/1995 12:00:00 AM,SR. PHONSY JOSE,1,"M.A., B.ED.",,15,17,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2018","ST. FRANCIS SOCIETY, PITHAMPUR"
-Woodlands Overseas School,1630453,PUNJAB,HOSHIARPUR,"Woodlands Overseas School, VPO Sataur,Dasuya Road",146001,"01882-277771
-                        ,","01882-277771
-                        ,",,,01881- 276971,woschool@gmail.com,http://www.woschool.com,2003,4/4/2004 12:00:00 AM,Simerjeet Kaur,0,"BSc., BEd., MEd.",,2,5,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2018",Overseas Benevolent Educational Society
-Tulip Public School,2131223,uttar pradesh,ETAH,"Tulip Public School,Nidhauli Road,5-B,Aruna Nagar,Etah,U.P.",207001,"05742-238500
-                        ,","05742-238500
-                        ,",26710543,26710543,05742-234300,tulippublicschool@yahoo.com,,2009,4/1/2009 12:00:00 AM,Mrs. Bindu Jaiswal,2,,,,,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2016","Maitreya Education Society,Chandrakuti,Shikohabad Road,Etah"
-DOLPHIN INTERNATIONAL SCHOOL  DHAMTARI(C.G.) PIN-493773,3330134,CHATTISGARH,DHAMTARI,DOLPHIN INTERNATIONAL SCHOOL  DHAMTARI(C.G.) PIN-493773,493773,"09229269429
-                        ,","09229269429
-                        ,",,,0771-4044188,dolphininternational325@yahoo.com,,2008,2/1/2008 12:00:00 AM,SUNITA CHOUDHARY,,M.Sc. B.Ed.,,12,8,Secondary School,Provisional,1/4/2010,31/3/2013,DOLPHIN ACADEMIC SOCIETY
-"DR.K.K.R's GOWTHAM INTERNATIONAL SCHOOL,IIT FOUNDATION SCHOOL",130235,ANDHRA PRADESH,KRISHNA,"OPP.INCAP CAPACITORS,NH-5,GUDAVALLI,VIJAYAWADA(RURAL),PIN-521104,",521104,"08666454884,08662084233
-                        ,","08666454884,08662084233
-                        ,",,,,kkr_gis@yahoo.co.in,http://www.gowthamconcept.net/index.htm,2007,6/26/2007 12:00:00 AM,PUSARLA MADHU,0,"M.A,B.ED",,4,13,Secondary School,Provisional,1/4/2012,31/3/2017,SRI GOWTHAM EDUCATIONAL SOCIETY
-"SIDDHARTHA CENTRAL SCHOOL,PUTHOOR",930890,KERALA,KOLLAM,"SIDDHARTHACENTRAL SCHOOL,PUTHUR,KOLLAM(DIST)KERALA ,INDIA 691507",690507,"04742417461,62,
-                        ,","04742417461,62,
-                        ,",,,0474417460,ksgopakumar.siddh@yahoo.in,,2005,6/1/2005 12:00:00 AM,Mr.M V ABRAHAM,,"MA,B. Ed",,3,30,Secondary School,Provisional,1/4/2012,31/3/2015,MINIMOLE MEMMORIAL CHARITABLE TRUST
-SHIKSHA HIGH SCHOOL,1730393,RAJASTHAN,BIKANER,"Shiksha High School, 
-Camel Farm Road, Shiv Bari, Bikaner, Rajasthan",334001,"0151-3295111
-                        ,","0151-3295111
-                        ,",,,,shiksha_high@yahoo.com,,2005,3/31/2005 12:00:00 AM,DR. D.K. Mishra,,"M.Sc., Ph.D., B.Ed.",,6,10,Senior Secondary,,"31/
-                    3/
-                    2014",INTEGRATED FOR HUMAN SERVICES SOCIETY,
-Gurukul English School,1130211,MAHARASHTRA,BEED,"Gurukul English School,Gurukul Nagar,Behind India Bank Colony,Jalna Road,Beed.",431122,"220394
-                        ,","220394
-                        ,",,,,amjbeed@rediffmail.com,,1995,,ANIL MANOHARRAO JOSHI,0,,,,,Secondary School,Provisional,1/4/2013,31/3/2018,SURYA DEV EDUCATION SOCIETY
-"GRAMIN STHALI SR. SEC. SCHOOL, MORWALA (Bhiwani)",531038,HARYANA,BHIWANI,"Gramin Sthali Sr. Sec. School, Bigowa, Near Charkhi Dadri, 
-Distt. Bhiwani, Haryana.",123306,"01250-254847
-                        ,","01250-254847
-                        ,",,,0,gramin_school@yahoo.com,,1994,4/13/1994 12:00:00 AM,R.K. Upadhyay,,"M.A., B.Ed., Ph.D.",,17,20,Senior Secondary,Provisional,1/4/2012,"31/
-                    3/
-                    2015",GRAMIN STHALI EDUCATION SOCIETY
-"ARYA ADARSH SENIOR SECONDARY SCHOOL, MADLAUDA PANIPAT",530811,HARYANA,PANIPAT,"ARYA ADARSH SENIOR SECONDARY SCHOOL, MADLAUDA, PANIPAT",132113,"01802584506
-                        ,","01802584506
-                        ,",,,,deeplath@gmail.com,www.aasssmadlauda.com,1995,3/19/1995 12:00:00 AM,PREM CHAND GUPTA,0,B.A. B.T.,,15,35,Senior Secondary,Provisional,1/4/2013,"31/
-                    3/
-                    2018",ARYA ADARSH SHIKSHA PARCHAR SAMITI
-Manava Bhawna Public School,2730647,DELHI,NORTH DELHI,"Manava Bhawna Public School Nathupura Main Road Near Bus Stand,Burari.",110084,"011-27731003
-                        ,","011-27731003
-                        ,",,,,mbes_education@yahoo.co.in,,1989,4/3/1989 12:00:00 AM,Urmilla Gaur,0,M.A B.Ed,,14,6,Secondary School,Provisional,1/4/2014,31/3/2019,Manava Bhawna Educational Society
-Bal Bhavan International School,2730630,DELHI,south west delhi,"Bal Bhavan International School, Sector-12, Dwarka, Delhi - 75",110092,"011-28031077
+                    2019",Shree Swaminarayan Shikshan Seva Kendra,
+Bal Bhavan International School,2730630,DELHI,south west delhi,"Palam Railway stationSector 16 , Dwarka","Bal Bhavan International School, Sector-12, Dwarka, Delhi - 75",110092,"011-28031077
                         ,","011-28031077
                         ,",,,,kunalguptasap@gmail.com,,2003,4/1/2003 12:00:00 AM,Kunal Gupta,0,"M.B.A, B.Tech, B.Ed",,4,4,Senior Secondary,Provisional,1/4/2013,"31/
                     3/
-                    2016",LAGAN KALA UPVAN
-ST. GEORGES CONVENT HIGH SCHOOL,1030426,MADHYA PRADESH,RAJGARH,"ST. GEORGES CONVENT HIGH SCHOOL, SARANGPUR",465697,"07371-222107
-                        ,","07371-222107
-                        ,",01302214772,01302214772,,augustine_thevarkunnel@yahoo.com,,1983,7/4/1983 12:00:00 AM,LUCY SEBASTIAN,2,"M.A., B.ED.",,9,15,Secondary School,Provisional,1/4/2012,31/3/2017,THE DIOCESE OF UJJAINS
-KIDDYS CORNER PUBLIC SCHOOL,1030549,MADHYA PRADESH,GWALIOR,"KIDDYS CORNER PUBLIC SCHOOL, GANDHI ROAD, THATIPUR",474001,"0751-2346093
+                    2016",LAGAN KALA UPVAN,
+KIDDYS CORNER PUBLIC SCHOOL,1030549,MADHYA PRADESH,GWALIOR,GWALIOR RAILWAY STATIONUNIVERSITY THANA GWALIOR,"KIDDYS CORNER PUBLIC SCHOOL, GANDHI ROAD, THATIPUR",474001,"0751-2346093
                         ,","0751-2346093
-                        ,",,,,gargvarun78@yahoo.com,,2007,4/4/2007 12:00:00 AM,ANITA MULAK,0,"MA, BEd",,19,12,Secondary School,Provisional,1/4/2014,31/3/2019,SHRI KRISHAN DAS GARG SIKSHA PRASAR SAMITI
-"DR K.K.R's GOWTHAM CONCEPT SCHOOL,IIT FOUNDATION SCHOOL",130229,ANDHRA PRADESH,HYDERABAD,"OPP.MANISHA GARDENS,MOULALI-ECIL X ROADS,",500040,"04032567788,04032568899
+                        ,",,,,gargvarun78@yahoo.com,,2007,4/4/2007 12:00:00 AM,ANITA MULAK,0,"MA, BEd",,19,12,Secondary School,Provisional,1/4/2014,31/3/2019,SHRI KRISHAN DAS GARG SIKSHA PRASAR SAMITI," KIDDYS CORNER PUBLIC SCHOOL Affiliation Code:1030549 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:KIDDYS CORNER PUBLIC SCHOOL, GANDHI ROAD, THATIPUR Phone Num: STD Code: PhNo: 0751-2346093 , Fax: City: 474001 Email:gargvarun78@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+"DR K.K.R's GOWTHAM CONCEPT SCHOOL,IIT FOUNDATION SCHOOL",130229,ANDHRA PRADESH,HYDERABAD,secunderabadmoulali,"OPP.MANISHA GARDENS,MOULALI-ECIL X ROADS,",500040,"04032567788,04032568899
                         ,","04032567788,04032568899
-                        ,",22458,22458,,kkr_gis@yahoo.co.in,http://www.gowthamconcept.net,2008,2/28/2008 12:00:00 AM,A.RATNA REDDY,2,"M.A,B.ED",,4,12,Secondary School,Provisional,1/4/2012,31/3/2017,SRI GOWTHAM EDUCATIONAL SOCIETY
+                        ,",22458,22458,,kkr_gis@yahoo.co.in,http://www.gowthamconcept.net,2008,2/28/2008 12:00:00 AM,A.RATNA REDDY,2,"M.A,B.ED",,4,12,Secondary School,Provisional,1/4/2012,31/3/2017,SRI GOWTHAM EDUCATIONAL SOCIETY," DR K.K.R's GOWTHAM CONCEPT SCHOOL,IIT FOUNDATION SCHOOL Affiliation Code:130229 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:OPP.MANISHA GARDENS,MOULALI-ECIL X ROADS, Phone Num: STD Code:06152 PhNo: 04032567788,04032568899 , Fax:22458 City: 500040 Email:kkr_gis@yahoo.co.in, Website:http://www.gowthamconcept.net Courses of study offered: This school follows the CBSE curriculum"
+ST. GEORGES CONVENT HIGH SCHOOL,1030426,MADHYA PRADESH,RAJGARH,SARANGPURSARANGPUR,"ST. GEORGES CONVENT HIGH SCHOOL, SARANGPUR",465697,"07371-222107
+                        ,","07371-222107
+                        ,",01302214772,01302214772,,augustine_thevarkunnel@yahoo.com,,1983,7/4/1983 12:00:00 AM,LUCY SEBASTIAN,2,"M.A., B.ED.",,9,15,Secondary School,Provisional,1/4/2012,31/3/2017,THE DIOCESE OF UJJAINS," ST. GEORGES CONVENT HIGH SCHOOL Affiliation Code:1030426 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:ST. GEORGES CONVENT HIGH SCHOOL, SARANGPUR Phone Num: STD Code:08262 PhNo: 07371-222107 , Fax:01302214772 City: 465697 Email:augustine_thevarkunnel@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+"Shah Satnam Ji Girls School, Bansapur",1030386,MADHYA PRADESH,SEHORE,BudniBudni,"Shah Satnam Ji Girls School,
+Bansapur",466445,"098273-65508
+                        ,","098273-65508
+                        ,",260367,260367,07564-235238,engineer_abhijeet@yahoo.com,,2007,7/2/2007 12:00:00 AM,Nutan Insan,2,"M.A., B.Ed.",,1,2,Senior Secondary,Provisional,1/4/2011,"31/
+                    3/
+                    2014",Shah Satnam Ji Research & Development Foundation Sirsa (Haryana),
+R.N. Tagore Hr. Secondary School,2131221,uttar pradesh,JAUNPUR,JaunpurKotwali,"R.N. Tagore Hr. Secondary School, Sukkhipur, Bodkapur",222001,"05452-263450
+                        ,","05452-263450
+                        ,",,,,vinay123@yahoo.in,,2006,4/1/2006 12:00:00 AM,Dr. Sheela Singh,0,"M.A. B.Ed, P.hd",,12,12,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",Shri Ravindra Nath Tagore Educational Charitabale Trust,
+Christ Public School,830218,KARNATAKA,MYSORE,Mysore citySaraswathipuram,"Christ Public School, BEML Layout, Bogadi P.O., Mysore, 570026(Pin Code), Karnataka, India",570026,"08216554546
+                        ,","08216554546
+                        ,",466071,466071,08212455521,christcbsemysore@yahoo.co.in,,2005,6/1/2005 12:00:00 AM,Fr. Antony Payyappilly CMI,1,"M.A., B.Ed.",,15,12,Secondary School,Provisional,1/4/2011,31/3/2016,St. Thomas Education Society," Christ Public School Affiliation Code:830218 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Christ Public School, BEML Layout, Bogadi P.O., Mysore, 570026(Pin Code), Karnataka, India Phone Num: STD Code:06542 PhNo: 08216554546 , Fax:466071 City: 570026 Email:christcbsemysore@yahoo.co.in, Website: Courses of study offered: This school follows the CBSE curriculum"
+st joseph''s english medium school,930815,KERALA,THRISSUR,ChalakudyMala,"pazhookkara, annallo p.o thrissur - 680731",680731,"(0480)2719915
+                        ,","(0480)2719915
+                        ,",,,,tessygege76@yahoo.in,,2003,6/2/2003 12:00:00 AM,sr. tessy gege,0,"m.a., b.ed",,06,09,Secondary School,Provisional,1/4/2014,31/3/2019,st. joseph''''s convent,
+"SIDDHARTHA CENTRAL SCHOOL,PUTHOOR",930890,KERALA,KOLLAM,KOTTARAKKARAPUTHUR,"SIDDHARTHACENTRAL SCHOOL,PUTHUR,KOLLAM(DIST)KERALA ,INDIA 691507",690507,"04742417461,62,
+                        ,","04742417461,62,
+                        ,",,,0474417460,ksgopakumar.siddh@yahoo.in,,2005,6/1/2005 12:00:00 AM,Mr.M V ABRAHAM,,"MA,B. Ed",,3,30,Secondary School,Provisional,1/4/2012,31/3/2015,MINIMOLE MEMMORIAL CHARITABLE TRUST," SIDDHARTHA CENTRAL SCHOOL,PUTHOOR Affiliation Code:930890 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:SIDDHARTHACENTRAL SCHOOL,PUTHUR,KOLLAM(DIST)KERALA ,INDIA 691507 Phone Num: STD Code: PhNo: 04742417461,62, , Fax: City: 690507 Email:ksgopakumar.siddh@yahoo.in, Website: Courses of study offered: This school follows the CBSE curriculum"
+New Vision Public School,1130210,MAHARASHTRA,BEED,ParliAmbajogai,"New Vision Public School, Ring Road, Ambajogai",431517,"245678(02446)
+                        ,","245678(02446)
+                        ,",,,,newvisionschool@ymail.com,http://www.balajieducation.com,2004,6/21/2004 12:00:00 AM,Rajeshwari Ekbote,0,"B.Sc., M.A., M.Ed.",,15,18,Secondary School,Provisional,1/4/2013,31/3/2018,Shri. Balaji Shikshan Prasark Mandal," New Vision Public School Affiliation Code:1130210 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:New Vision Public School, Ring Road, Ambajogai Phone Num: STD Code:0240 PhNo: 245678(02446) , Fax: City: 431517 Email:nvpsa_principal@rediffmail.com, Website:http://www.balajieducation.com Courses of study offered: This school follows the CBSE curriculum"
+AWAGARH PUBLIC SCHOOL,2131228,uttar pradesh,ETAH,TundlaAwagarh,"Awagarh Public School,Jalesar Road,Awagarh,Etah,U.P.",207301,"09759212226/05745-318394
+                        ,","09759212226/05745-318394
+                        ,",5373341,5373341,05745-318394,awagarhpublicschool@yahoomail.com,,2005,4/1/2005 12:00:00 AM,Mr.Krishan Kumar Sisodiya,1,"M.Com, B.Ed",,,,Secondary School,Provisional,1/4/2014,31/3/2017,Seth Kishorilal varshney jan Kalyan Samiti," AWAGARH PUBLIC SCHOOL Affiliation Code:2131228 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Awagarh Public School,Jalesar Road,Awagarh,Etah,U.P. Phone Num: STD Code: PhNo: 05745-318394 , Fax: City: 207301 Email:awagarhpublicschool@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+royal global school,230121,ASSAM,KAMRUP,GuwahatiGorchuk,"royal global school, opposite tirupati balaji temple / isbt, national highway - 37, betkuchi, guwhati - 781035",781035,"08822607725, 08822607726
+                        ,","08822607725, 08822607726
+                        ,",,,0361 - 2279949,principalrgs12@gmail.com,http://www.rgs.edu.in,2012,4/18/2012 12:00:00 AM,MRS ABUBHA GOYAL,0,,,,,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",gyan sagar foundation alias royal,
+Gems Cambridge International School,1630629,PUNJAB,HOSHIARPUR,hoshiarpurMT Hoshiarpur,"Gems Cambridge International School 
+Jalandhar-Phagwara Byepass
+Purhiran
+hoshiarpur",146111,"01882-249312
+                        ,","01882-249312
+                        ,",,,01882-249313,gcish_principalhsp@yahoo.com,http://www.gemseducation.com,2008,11/3/2008 12:00:00 AM,Lorraine Mirza,0,"MA,B.SC,B.ED",,5,10,Senior Secondary,Provisional,1/4/2013,"31/
+                    3/
+                    2016",Vasal Educational Society,
+Mount Guide International School,931015,KERALA,KANNUR,MaheChokli,"Peringathur, Puliyanabram Post, Thalassery.",670675,"0490-2397377
+                        ,","0490-2397377
+                        ,",,,,admin@mountguideschool.com,http://www.mountguideinternational.org/,2006,6/5/2006 12:00:00 AM,Dr.Sathi Ramachandran,1,"MA, PhD",,15,28,Secondary School,Provisional,1/4/2013,31/3/2016,PARCO educational Trust,
+INDIAN SCHOOL,3330099,CHATTISGARH,RAIGARH,"RAIGARHCHAKRADHAR NAGAR, RAIGARH","INDIAN SCHOOL, ATTARMUDA,RAIGARH",496001,"09203908321
+                        ,","09203908321
+                        ,",2758565,2758565,,director@indianschool.ws,http://www.indianschool.ws,2005,4/1/2005 12:00:00 AM,JAGRITI PRABHAKAR,1,"M.A.,B.A.",,2,10,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2019",GYAN ASHA EDUCATIONAL SOCIETY,
+BHARATH PUBLIC SCHOOL,930924,KERALA,THIRUVANANTHAPURAM,VARKALAVARKALA,"KANNAMBA,
+VARKALA P.O.
+TRIVANDRUM DISTRICT
+KERALA",695141,"04702608529
+                        ,","04702608529
+                        ,",9963185544,9963185544,,bharathpublicschool@yahoo.com,,1998,6/1/1998 12:00:00 AM,S. SHERLY,2,"M.A., B.ED",,7,7,Secondary School,Provisional,1/4/2015,31/3/2020,CHANDRODAYAM CHARITABLE SOCIETY,
+ADARSH PUBLIC SCHOOL.VITA,1130271,MAHARASHTRA,SANGLI,KIRLOSKARWADIVITA,ADARSH PUBLIC SCHOOL KUNDAL ROAD,415311,"02347275302
+                        ,","02347275302
+                        ,",,,02347272072,adarshcbse@gmail.com,,1994,6/1/2009 12:00:00 AM,SHREEDHAR SHYAMRAO JOSHI,0,BSc.M.A.BEd.PhD(US).PhD(UK),,22,15,Secondary School,Provisional,1/4/2014,31/3/2019,LHP CHARITABLE TRUST," ADARSH PUBLIC SCHOOL.VITA Affiliation Code:1130271 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:ADARSH PUBLIC SCHOOL KUNDAL ROAD Phone Num: STD Code: PhNo: 02347275302 , Fax: City: 415311 Email:adarshcbse@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Sacred Heart Convent School,830411,KARNATAKA,UDUPI,KundapuraKollur,"Jadkal P.o, Kundapur.",576233,"08254-259206,206206
+                        ,","08254-259206,206206
+                        ,",0460 2204166,0460 2204166,,sacredheartconventschool@ymail.com,,2003,6/5/2003 12:00:00 AM,JESSY K.S. {Sr. Priya},2,M.A. B.ED,,05,13,Secondary School,Provisional,1/4/2015,31/3/2020,Seraphina Educational,
+aryans model sr. sec.school,530974,HARYANA,BHIWANI,charkhi dadricharkhi dadri,"aryans model school  
+ghikara road
+ch.dadri
+bhiwani(haryana)
+127306",127306,"01250224462
+                        ,","01250224462
+                        ,",,,01250223306,varyans2008@gmail.com,,2008,4/1/2010 12:00:00 AM,dr. kailash chand sharma,,"m.a,p.hd,b.ed.",,14,40,Senior Secondary,Provisional,1/4/2012,"31/
+                    3/
+                    2015",Rattan Singh Memorial SHiksha Samiti,
+Decent School,1730566,RAJASTHAN,KOTA,Railway station KotaBorekheda,"Decent School, Rajnagar, Kota",324006,"07442381257
+                        ,","07442381257
+                        ,",,,,decentkota@yahoo.co.in,,2009,4/1/2009 12:00:00 AM,Mrs.Veena Jain,2,"B. Ed, M.A. Ed.,P.G.D.C.A., Prabhakar",,15,12,Secondary School,Provisional,1/4/2013,31/3/2016,Decent School Shiksha Samiti,
+GADAG PUBLIC SCHOOL,830456,KARNATAKA,GADAG,GADAGAGADAGA,"GADAG PUBLIC SCHOOL,GADAG-KKARNATAKA",582101,"08372-23007
+                        ,","08372-23007
+                        ,",,,08372-234567,gadag_abhigna@yahoo.com,,2010,6/1/2011 12:00:00 AM,Mr.Fr.MATHEW.M.A.,0,"M.A, B.Ed.M.Phil",,10,15,Secondary School,Provisional,1/4/2012,31/3/2015,JANACHETHATHANA SHIKSHANA SAMITHI," GADAG PUBLIC SCHOOL Affiliation Code:830456 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:GADAG PUBLIC SCHOOL,GADAG-KKARNATAKA Phone Num: STD Code: PhNo: 08372-23007 , Fax: City: 582101 Email:gadag_abhigna@yahoo.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Jim Corbett International School,3530349,UTTARANCHAL,BAGESHWAR,KathgodamBageshwar,Jim Corbett International School. Takula Road. Bageshwar,263642,"05963-221049
+                        ,","05963-221049
+                        ,",,,05963-221049,jimcorbettschool@yahoo.co.in,,2007,4/2/2007 12:00:00 AM,Mr.Mr Pooran Kapil,0,"M.A., B.Ed.",,5,10,Secondary School,Provisional,1/4/2013,31/3/2016,Jim Corbett School Society,
+Father's International School,530640,HARYANA,AMBALA,Dhoolkotpanjokhra,"N.H. 72 Naraingarh Road Panjokhra, Distt Ambala, Haryana",134003,"01716535109
+                        ,","01716535109
+                        ,",01244070895,01244070895,000,manisha_minocha@yahoo.com,http://www.acsinstitute.com,2005,4/1/2005 12:00:00 AM,Mr Sujan Singh,1,M.A. M.Ed,,10,37,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2019",Dua National Model School Society,
+DVM PUBLIC SCHOOL ANUPPUR (M.P.),1030605,MADHYA PRADESH,SHAHDOL,AnuppurAnuppur,"DVM PUBLIC SCHOOL
+MODEL SCHOOL ROAD,
+ANUPPUR DISTT.-ANUPPUR (M.P.)",484224,"07659-290868
+                        ,","07659-290868
+                        ,",,,07659-222394,dvmpublicschoolanuppur@yahoo.in,http://www.dvmsociety.com,2010,7/7/2010 12:00:00 AM,Mrs.SUSHILA KULWANT,,M.A. B.Ed.,,15,17,Secondary School,Provisional,1/4/2012,31/3/2015,DAYANAND VEDIC MISSION EDUCATIONAL&CHARITABLE MANAGMENT SOCIETY DELHI,
+Spring Valley Public School,1630574,PUNJAB,SANGRUR,BarnalaBarnala,"Spring valley public school, Handiaya road, Barnala-148101,Punjab",148101,"01679-240082
+                        ,","01679-240082
+                        ,",01343250214,01343250214,01679-231974,kalaunni@gmail.com,,2001,2/20/2001 12:00:00 AM,VEENA MITAL,2,"M.A, B.Ed",,3,5,Secondary School,Provisional,1/4/2013,31/3/2016,Spring Valley Education Society,
+C.T.E Societys International Public School,830422,KARNATAKA,BELGAUM,Chikodi RoadChikodi,"C.T.E Societys International Public School, co R.D. High School Campus, N.M. Road Chikodi",591201,"08338272537
+                        ,","08338272537
+                        ,",,,08338272122,ctesinternationalpublicschool@gmail.com,http://www.ctescbse.org,2006,6/1/2006 12:00:00 AM,Raghavendra Kulkarni,,M.A. B.Ed,,4,2,Secondary School,Provisional,1/4/2014,31/3/2017,Chikodi Taluka Educationa Society," C.T.E Societys International Public School Affiliation Code:830422 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:C.T.E Societys International Public School, co R.D. High School Campus, N.M. Road Chikodi Phone Num: STD Code: PhNo: 08338272537 , Fax: City: 591201 Email:ctesinternationalpublicschool@gmail.com, Website:http://www.ctescbse.org Courses of study offered: This school follows the CBSE curriculum"
+Pass Percentage,,SSC-2014,,,,,,,,,,,,,,,,,,,,,,,,,
+,79.69,"PARAGON PUBLIC SENIOR SECONDARY SCHOOL, G.PALAH SAHIB, KHAIRABAD, AMRITSAR",76.44,,81.39,"SHRI GURU HARGOBIND PUBLIC SENIOR SECONDARY SCHOOL, GURUSAR SUTLANI SAHIB (AMRITSAR)",,92.89,,85.11,79.69,"PANJ AAB PUBLIC SCHOOL, SOHIAN KALAN (AMRITSAR)",87.33,76.76,"SANT BABA BHURI WALE PUBLIC SENIOR SECONDARY SCHOOL, KOT MIT SINGH (AMRITSAR)",85.56,75.43,"MONTESSORI PUBLIC SENIOR SECONDARY SCHOOL, RAYYA (AMRITSAR)",90.22,73.6,"SRI GURU HARKRISHAN PUBLIC SENIOR SECONDARY SCHOOL, (CHIEF KHALSA DIWAN) RASULPUR KALAN (AMRITSAR)",90,65.56,60.82,"JAGAT JYOTI PUBLIC SENIOR SECONDARY SCHOOL, 36,37 GOKAL KA BAGH, EAST MOHAN NAGAR AMRITSAR",76.44,
+Kakka International School,1030596,MADHYA PRADESH,SHAJAPUR,ShajapurThana Nalkheda,"Kakka International School , Bhaisoda Road, Nalkheda Post-Nalkheda,  Tehsil - Nalkheda ,  District -  Shajapur (M.P.)      Pin code-465445",465445,"07361-223107
+                        ,","07361-223107
+                        ,",260367,260367,,kakka.int.school@gmail.com,,2010,7/1/2010 12:00:00 AM,Mrs. Ravinder Kaur,2,"M.A.(sociology),B.Ed.",,5,15,Senior Secondary,Provisional,1/4/2014,"31/
+                    3/
+                    2017",Shri ramkumar Education And Research Society,
+Bayonet School,1030454,MADHYA PRADESH,INDORE,MhowMhow,"Bayonet School C/O Infantry School, Mhow",453441,"-07324-252873
+                        ,","-07324-252873
+                        ,",,,,bayonetschool_mhow@rediff.com,,1948,4/1/1948 12:00:00 AM,Sangeeta Shrivastav,0,"MA, B.Ed",,15,5,Secondary School,Provisional,1/4/2012,31/3/2015,Bayonet School Management Committee," Bayonet School Affiliation Code:1030454 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:Bayonet School C/O Infantry School, Mhow Phone Num: STD Code: PhNo: -07324-252873 , Fax: City: 453441 Email:bayonetschool_mhow@rediff.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+btc public school,930840,KERALA,ERNAKULAM,TRIPUNITHURAPUTHENCRUZ,"puthencruz. p.o.
+ernakulam. (dist)",682308,"0484-2730057
+                        ,","0484-2730057
+                        ,",563305,563305,,baselians@gmail.com,,2004,6/2/2004 12:00:00 AM,m.v. cherian,2,"m.sc., m.a. b.ed.",,1,25,Secondary School,Provisional,1/4/2014,31/3/2019,st. mary''s charitable trust puthencruz," BASELIUS THOMAS I CATHOLICOSE PUBLIC SCHOOL (BTC PUBLIC SCHOOL) Affiliation Code:930840 The school is affiliated to the CBSE board. (Central Board of Secondary Education) Contact Details(Address, Phone, Fax): Address:BTC PUBLIC SCHOOL PUTHENCRUZ. P.O.ERNAKULAM. (Dist) Phone Num: STD Code: PhNo: 0484-2730057 , Fax: City: 682308 Email:baselians@gmail.com, Website: Courses of study offered: This school follows the CBSE curriculum"
+Little Flower Convent School,1730385,RAJASTHAN,HANUMANGARH,HanumangarhHanumangarh,"Little Flower Convent School, 
+P.B. No. 17, 
+Hanumangarh Jn.
+Rajasthan - 335 512",335512,"01552 268556
+                        ,","01552 268556
+                        ,",,,01552 269455,lfcshmh@gmail.com,,1999,4/1/1999 12:00:00 AM,Sr. Sophy V. K.,1,"M. A., B. Ed.",,4,9,Secondary School,Provisional,1/4/2012,31/3/2017,"Little Flower Education Society, Bikaner",
