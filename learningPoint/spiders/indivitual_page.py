@@ -169,19 +169,24 @@ class QuotesSpider(scrapy.Spider):
 			data['Name of Trust/ Society/ Managing Committee'] = table[53].string.strip()
 		except:
 			data['Name of Trust/ Society/ Managing Committee'] = ""
+		try:
+			table = tables[2].find_all('td')
+			data['locality'] = table[5].string.strip()
+		except:
+			data['locality'] = ""
 
 
 #		with open("output/"+data['State'].lower()+".csv","a") as myFile:
 		check = Path("output/data.csv")
 		if not check.is_file():
 			with open("output/data.csv","wb") as myFile:
-				fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
+				fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'locality', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
 
 				writer = csv.DictWriter(myFile,fieldnames=fieldnames)
 				writer.writeheader()
 
 		with open("output/data.csv","a") as myFile:
-			fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
+			fieldnames = ['Name of Institution','Affiliation Number', 'State', 'District', 'locality', 'Postal Address', 'Pin Code', 'Phone Office 1', 'Phone Office 2', 'Phone Residence 1', 'Phone Residence 2', 'FAX No', 'Email', 'Website', 'Year of Foundation', 'Date of First Openning of School', 'Name of Principal/ Head of Institution', 'Sex', 'Principal Education/Professional Qualifications', 'Number of Experience Years', 'Administrative', 'Teaching', 'Status of The School', 'Type of affiliation', 'Affiliation Period From', 'Affiliation Period To', 'Name of Trust/ Society/ Managing Committee', 'extra']
 
 			writer = csv.DictWriter(myFile,fieldnames=fieldnames)
 
@@ -190,6 +195,7 @@ class QuotesSpider(scrapy.Spider):
 				'Affiliation Number':data['Affiliation Number'],
 				'State':data['State'],
 				'District':data['District'],
+				'locality':data['locality'],
 				'Postal Address':data['Postal Address'],
 				'Pin Code':data['Pin Code'],
 				'Phone Office 1':data['Phone Office 1'],
