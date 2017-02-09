@@ -17,7 +17,7 @@ class QuotesSpider(scrapy.Spider):
 
 		print "Scraping Started...please wait to finish transactions......."
 
-		for counter in xrange(0,80000,10):
+		for counter in xrange(0,55110,10):
 			url = base_url+str(counter)
 			yield scrapy.Request(url=url, callback=self.parse_page)
 
@@ -40,7 +40,12 @@ class QuotesSpider(scrapy.Spider):
 		#inp = input()
 		data = {}
 
-		page = response.xpath('//div[@id="sites-canvas-main-content"]/table/tbody/tr/td/div').extract()
+		try:
+			page = response.xpath('//div[@id="sites-canvas-main-content"]/table/tbody/tr/td/div').extract()
+		except:
+			print "Error : ",response
+			inp = input()
+
 		try:
 			soup = BeautifulSoup(page[len(page)-3],'html.parser')
 			tables = soup.find_all('table')
