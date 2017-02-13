@@ -28,7 +28,7 @@ class QuotesSpider(scrapy.Spider):
          	yield scrapy.Request(url=link, callback=self.parse_school)
             except:
 		print "could not go to indivitual school"
-		inp = input()
+		inp = input();
 
 
     def parse_school(self, response):
@@ -85,6 +85,10 @@ class QuotesSpider(scrapy.Spider):
                     data['District'] = page[val+1].string.strip()
 
             for val, i in enumerate(page):
+                if i.b is not None and i.b.string is not None and i.b.string.strip() == 'Phone No. with STD Code':
+                    data['Phone No. with STD Code'] = page[val+1].string.strip()
+
+            for val, i in enumerate(page):
                 if i.b is not None and i.b.string is not None and i.b.string.strip() == 'Postal Address':
                     data['Postal Address'] = page[val+1].string.strip()
             
@@ -97,19 +101,20 @@ class QuotesSpider(scrapy.Spider):
                     #data['Phone Office 1'] = page[val+1].string.strip()
                     point = val
             try:        
-                data['Phone Office 1'] = page[point+1].string.strip()
+                phoneNumber1 = data['Phone No. with STD Code'] + page[point+1].string.strip();
+                data['Phone Office 1'] = ''.join(filter(str.isdigit, phoneNumber1));
             except:
                 print "Phone Office 1 not found"
             try:
-                data['Phone Office 2'] = page[point+2].string.strip()
+                data['Phone Office 2'] = data['Phone No. with STD Code'] + page[point+2].string.strip();
             except:
                 print "Phone Office 2 not found"
             try:
-                data['Phone Residence 1'] = page[point+4].string.strip()
+                data['Phone Residence 1'] = data['Phone No. with STD Code'] + page[point+4].string.strip();
             except:
                 print "Phone Residence 1 not found"
             try:
-                data['Phone Residence 2'] = page[point+5].string.strip()
+                data['Phone Residence 2'] = data['Phone No. with STD Code'] + page[point+5].string.strip();
             except:
                 print "Phone Residence 2 not found"
 
