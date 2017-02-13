@@ -15,7 +15,7 @@ class QuotesSpider(scrapy.Spider):
 	def start_requests(self):
 		base_url = 'http://www.thelearningpoint.net/system/app/pages/search?scope=search-site&q=school&offset='
 
-		print "Scraping Started...please wait to finish transactions......."
+		print "Scraping Old Started...please wait to finish transactions......."
 
 		for counter in xrange(0,55110,10):
 			url = base_url+str(counter)

@@ -1,2 +1,2 @@
 import os
-os.system('scrapy crawl indivitual --nolog')
+os.system('scrapy crawl dynamicscrapper --nolog')
